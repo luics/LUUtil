@@ -11,7 +11,8 @@
 @implementation LUUtil
 
 +(int) add:(int)a withB:(int)b{
-    return a + b;
+    NSLog(@"%d %d", a, b);
+    return a + b; 
 }
 
 @end
