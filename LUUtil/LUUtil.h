@@ -14,11 +14,24 @@
 @interface LUUtil : NSObject
 
 /**
- * Test 
- * @param a param1
- * @param b param2
- * @return a + b
+ *  <#Description#>
+ *
+ *  @param a <#a description#>
+ *  @param b <#b description#>
+ *
+ *  @return <#return value description#>
  */
 +(int) add:(int)a withB:(int)b;
+
+
+/**
+ *  Math Pow
+ *
+ *  @param a
+ *  @param pow
+ *
+ *  @return <#return value description#>
+ */
++(NSNumber *) pow:(NSNumber *)a pow:(NSNumber *)pow;
 
 @end
