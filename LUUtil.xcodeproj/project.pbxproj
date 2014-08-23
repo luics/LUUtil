@@ -54,6 +54,7 @@
 		8947D90719A8286A00FA432F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8947D90919A8286A00FA432F /* LUUtilTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LUUtilTests.m; sourceTree = "<group>"; };
 		8947D91319A829C600FA432F /* LUUtil.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LUUtil.podspec; sourceTree = "<group>"; };
+		8947D91619A834AF00FA432F /* Demo.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Demo.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				8947D91319A829C600FA432F /* LUUtil.podspec */,
+				8947D91619A834AF00FA432F /* Demo.podspec */,
 				8947D8EF19A8286A00FA432F /* LUUtil */,
 				8947D90319A8286A00FA432F /* LUUtilTests */,
 				8947D8EC19A8286A00FA432F /* Frameworks */,
